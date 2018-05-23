@@ -10,6 +10,9 @@
 
 */
 
+#ifndef SERGIN_H
+#define SERGIN_H
+
 class Sergin
 {
     private:
@@ -19,3 +22,5 @@ class Sergin
         // Overloaded Constructor
         Sergin(String);
 };
+
+#endif
